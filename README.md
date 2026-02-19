@@ -3,6 +3,7 @@
 
 <p align="center">
   DBA em formação com foco em performance, confiabilidade 
+
  | SQL | Python | Administração de Banco de Dados
 </p>
 
