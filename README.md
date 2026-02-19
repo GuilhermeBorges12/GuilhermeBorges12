@@ -3,7 +3,7 @@
 
 <p align="center">
   DBA em formação com foco em performance, confiabilidade e arquitetura de dados.<br>
-  SQL Avançado • Python • Administração de Banco de Dados • AWS Cloud
+  SQL  • Python • Administração de Banco de Dados • AWS Cloud
 </p>
 
 ---
