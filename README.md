@@ -2,8 +2,8 @@
 <h3 align="center">Database Administrator | PostgreSQL & Oracle</h3>
 
 <p align="center">
-  DBA em formação com foco em performance, confiabilidade e arquitetura de dados.
-  Certificado Oracle Academy | SQL Avançado | Python para automação.
+  DBA em formação com foco em performance, confiabilidade 
+ | SQL | Python | Administração de Banco de Dados
 </p>
 
 ---
