@@ -2,8 +2,8 @@
 <h3 align="center">Database Administrator | PostgreSQL • Oracle • Cloud</h3>
 
 <p align="center">
-  DBA em formação com foco em performance, confiabilidade e arquitetura de dados.<br>
-  SQL  • Python • Administração de Banco de Dados • AWS Cloud
+  DBA em formação com foco em performance, confiabilidade/disponibilidade e análise de dados.<br>
+  SQL  • Python • Administração de Banco de Dados • AWS Cloud • Análise de dados
 </p>
 
 ---
@@ -11,6 +11,7 @@
 ## 🗄️ Especialidades
 
 - Administração PostgreSQL
+- Python
 - Oracle Database
 - MongoDB
 - SQLite
@@ -21,6 +22,7 @@
 - Controle de Acesso e Segurança
 - Monitoramento e Confiabilidade
 - Fundamentos de Cloud (AWS e MongoDB)
+- Bibliotecas Python para Extração, Tratamento e carregamento de Dados
 
 ---
 
