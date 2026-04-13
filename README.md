@@ -8,7 +8,7 @@
 
 ---
 
-## 🗄️ Especialidades
+##  Especialidades
 
 - Administração PostgreSQL
 - Python
@@ -22,7 +22,7 @@
 - Controle de Acesso e Segurança
 - Monitoramento e Confiabilidade
 - Fundamentos de Cloud (AWS e MongoDB)
-- Bibliotecas Python para Extração, Tratamento e carregamento de Dados
+- Bibliotecas Python para Extração, Tratamento e carregamento de Dados (Pandas, Matplotlib)
 
 ---
 
